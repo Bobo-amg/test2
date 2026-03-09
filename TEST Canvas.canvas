@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"45f71019a9dca963","x":-860,"y":-580,"width":250,"height":60,"type":"text","text":"wtf is this?"},
-		{"id":"f40f3e6fa849b455","x":-860,"y":-420,"width":400,"height":400,"color":"3","type":"file","file":"the 4th note.md"},
-		{"id":"b7a63b9bbf817f62","x":-125,"y":-30,"width":250,"height":60,"color":"#d30d0d","type":"text","text":"EMERGENCY !!!"}
+		{"id":"45f71019a9dca963","type":"text","text":"wtf is this?","x":-860,"y":-580,"width":250,"height":60},
+		{"id":"f40f3e6fa849b455","type":"file","file":"the 4th note.md","x":-860,"y":-420,"width":400,"height":400,"color":"3"},
+		{"id":"b7a63b9bbf817f62","type":"text","text":"EMERGENCY !!!","x":-125,"y":-30,"width":250,"height":60,"color":"#d30d0d"},
+		{"id":"3acae29114b08064","x":-125,"y":-420,"width":250,"height":60,"color":"4","type":"text","text":"poo poo"}
 	],
 	"edges":[
 		{"id":"95ca038ce2329c1d","fromNode":"45f71019a9dca963","fromSide":"bottom","toNode":"f40f3e6fa849b455","toSide":"top"},
-		{"id":"391e49d64121e9df","fromNode":"f40f3e6fa849b455","fromSide":"bottom","toNode":"b7a63b9bbf817f62","toSide":"top"}
+		{"id":"391e49d64121e9df","fromNode":"f40f3e6fa849b455","fromSide":"bottom","toNode":"b7a63b9bbf817f62","toSide":"top"},
+		{"id":"24e00f85a045927e","fromNode":"b7a63b9bbf817f62","fromSide":"top","toNode":"3acae29114b08064","toSide":"bottom"}
 	]
 }
