@@ -5,7 +5,7 @@ Writing <span style="color:rgb(255, 255, 0)">stuff here</span> ...
 
 bla bla <span style="color:rgb(255, 255, 0)">bla bla bla b</span>la bla
 
-<span style="color:rgb(112, 48, 160)"><span style="color:rgb(112, 48, 160)"><span style="color:rgb(112, 48, 160)"><span style="color:yellow">bla bla bla bla  blab</span></span></span></span>
+<span style="color:yellow">bla bla bla bla  blab</span>
 
 <span style="color:rgb(0, 176, 240)">blabba</span>
 
