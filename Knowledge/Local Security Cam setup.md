@@ -11,4 +11,6 @@ sudo nano environment
 
 run (sudo nano dhcpcd.conf) and set appropriate ip address
 
-run "sudo raspi-config" to change wifi ssid
+modify "/etc/wpa_supplicant/wpa_supplicant_conf" with new ssid
+
+
