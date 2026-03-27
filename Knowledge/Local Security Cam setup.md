@@ -13,4 +13,6 @@ run (sudo nano dhcpcd.conf) and set appropriate ip address
 
 modify "/etc/wpa_supplicant/wpa_supplicant_conf" with new ssid
 
+check hosts and hostname
+
 
